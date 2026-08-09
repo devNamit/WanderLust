@@ -5,7 +5,7 @@
 A full-stack web application where travelers can share travel experiences, discover new places, and connect with fellow adventurers.
 
 ## 🚀 Live Demo
-[**Visit WanderLust Here**](https://wanderlust-render-link.onrender.com)
+[**Visit WanderLust Here**](https://wanderlust-project-y7sd.onrender.com/listings)
 
 ---
 
